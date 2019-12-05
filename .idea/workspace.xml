@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f10922f4-e475-40e5-a179-ccf2f42199e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/Ascii.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/Calculations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/META-INF/Homework.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/SwapNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/americanFlag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/counterofChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/decimaltoBinary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/distanceBetweenTwoCoordinates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/divisiblebythreeandFive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/exercise21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/exercise22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/fileSize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/integerN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/javaPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/reverseString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/systemTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/systemTimespecificFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/threeDigitNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Homework/timesTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ascii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwapNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/americanFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/counterofChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decimaltoBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/distanceBetweenTwoCoordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divisiblebythreeandFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/integerN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/systemTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/systemTimespecificFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeDigitNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timesTable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Homework" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ti7QAXULEsju5Vfy8hdHDC2huF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.exercise22">
+    <configuration name="divisiblebythreeandFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="divisiblebythreeandFive" />
+      <module name="Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise21" />
+      <module name="Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise22" />
+      <module name="Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="systemTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="systemTime" />
+      <module name="Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="systemTimespecificFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="systemTimespecificFormat" />
+      <module name="Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exercise22" />
+        <item itemvalue="Application.exercise21" />
+        <item itemvalue="Application.divisiblebythreeandFive" />
+        <item itemvalue="Application.systemTimespecificFormat" />
+        <item itemvalue="Application.systemTime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f10922f4-e475-40e5-a179-ccf2f42199e6" name="Default Changelist" comment="" />
+      <created>1573931043625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573931043625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1575573887582">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="494" y="371" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1575573887582" />
+  </component>
+</project>
