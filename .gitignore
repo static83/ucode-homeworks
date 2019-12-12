@@ -1,4 +1,3 @@
-
 *iml
 .idea
 .idea-backup
@@ -9,7 +8,6 @@
 build
 target
 */target
-*~
 .tmp
 .uibuild
 nohup.out
@@ -19,9 +17,6 @@ dependency-reduced-pom.xml
 */build.log
 m2.settings.xml
 conf/generated
-!resources/conf
-_remote.repositories
-_maven.repositories
 *.jar
 *.jar.sha1
 *.pom
@@ -29,9 +24,6 @@ _maven.repositories
 maven-metadata-local.xml
 maven-metadata-nexus.xml
 maven-metadata-nexus.xml.sha1
-resolver-status.properties
 .gitreview
-hs_err_pi*
 .idea/workspace.xml
-out/production/Homework/META-INF/Homework.kotlin_module  
-out/production/Homework/exercise22.class
+out
