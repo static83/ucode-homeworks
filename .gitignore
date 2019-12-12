@@ -32,3 +32,6 @@ maven-metadata-nexus.xml.sha1
 resolver-status.properties
 .gitreview
 hs_err_pi*
+.idea/workspace.xml
+out/production/Homework/META-INF/Homework.kotlin_module  
+out/production/Homework/exercise22.class
